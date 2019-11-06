@@ -1,0 +1,1 @@
+favorite_artists = ['Lesha Svik', "Mot", 'Miya Gi']
